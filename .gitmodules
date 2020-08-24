@@ -1,6 +1,6 @@
 [submodule "FV3"]
 	path = FV3
-	url = https://github.com/JustinPerket/fv3atm
+	url = git@github.com/JustinPerket/fv3atm
 	branch = land-struct-split
 [submodule "NEMS"]
 	path = NEMS
